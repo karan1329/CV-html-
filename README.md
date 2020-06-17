@@ -1,2 +1,2 @@
 # First website
-  - ugly vanilla <html>
+  - html
